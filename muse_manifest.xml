@@ -1,0 +1,231 @@
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bgrahamwebart.com" resolutions="1x" timestamp="1544444205049">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="395761743" ref="dada-heart:zay---cris:zay-b-w:dada-silhouette:2015-recon-details:index:2015-recon-denim:fashion-design:menubio-page:photography"/>
+    <file name="dada-heart.css" crc="62531878" ref="dada-heart"/>
+    <file name="zay---cris.css" crc="3808915870" ref="zay---cris"/>
+    <file name="zay-b-w.css" crc="253813366" ref="zay-b-w"/>
+    <file name="dada-silhouette.css" crc="4220561564" ref="dada-silhouette"/>
+    <file name="2015-recon-details.css" crc="188717633" ref="2015-recon-details"/>
+    <file name="index.css" crc="3774964984" ref="index"/>
+    <file name="2015-recon-denim.css" crc="261222618" ref="2015-recon-denim"/>
+    <file name="fashion-design.css" crc="35068920" ref="fashion-design"/>
+    <file name="menubio-page.css" crc="157327281" ref="menubio-page"/>
+    <file name="photography.css" crc="102011141" ref="photography"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:photography:fashion-design:menubio-page:dada-silhouette:zay-b-w:dada-heart:2015-recon-denim:2015-recon-details:zay---cris"/>
+    <file name="museutils.js" crc="4216313831" ref="index:photography:fashion-design:menubio-page:dada-silhouette:zay-b-w:dada-heart:2015-recon-denim:2015-recon-details:zay---cris"/>
+    <file name="whatinput.js" crc="86476730" ref="index:photography:fashion-design:menubio-page:dada-silhouette:zay-b-w:dada-heart:2015-recon-denim:2015-recon-details:zay---cris"/>
+    <file name="museconfig.js" crc="474374037" ref="index:photography:fashion-design:menubio-page:dada-silhouette:zay-b-w:dada-heart:2015-recon-denim:2015-recon-details:zay---cris"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:photography:fashion-design:menubio-page:dada-silhouette:zay-b-w:dada-heart:2015-recon-denim:2015-recon-details:zay---cris"/>
+    <file name="require.js" crc="3951022091" ref="index:photography:fashion-design:menubio-page:dada-silhouette:zay-b-w:dada-heart:2015-recon-denim:2015-recon-details:zay---cris"/>
+  </folder>
+  <folder name="images">
+    <file name="me frame.jpg" crc="4127396232" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="camera thing.png" crc="399835735" seo="true" ref="index:photography:fashion-design:menubio-page:dada-silhouette:zay-b-w:dada-heart:2015-recon-denim:2015-recon-details:zay---cris">
+      <caption webpage="menubio-page" alt=""/>
+      <caption webpage="2015-recon-denim" alt=""/>
+      <caption webpage="dada-silhouette" alt=""/>
+      <caption webpage="zay-b-w" alt=""/>
+      <caption webpage="dada-heart" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="zay---cris" alt=""/>
+      <caption webpage="fashion-design" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="2015-recon-details" alt=""/>
+    </file>
+    <file name="welcome.gif" crc="4160339784" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="playback button.png" crc="4084096491" seo="true" ref="index:photography:fashion-design:menubio-page:dada-silhouette:zay-b-w:dada-heart:2015-recon-denim:2015-recon-details:zay---cris">
+      <caption webpage="menubio-page" alt=""/>
+      <caption webpage="2015-recon-denim" alt=""/>
+      <caption webpage="dada-silhouette" alt=""/>
+      <caption webpage="zay-b-w" alt=""/>
+      <caption webpage="dada-heart" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="zay---cris" alt=""/>
+      <caption webpage="fashion-design" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="2015-recon-details" alt=""/>
+    </file>
+    <file name="menu button.png" crc="3793982051" seo="true" ref="index:photography:fashion-design:menubio-page:dada-silhouette:zay-b-w:dada-heart:2015-recon-denim:2015-recon-details:zay---cris">
+      <caption webpage="menubio-page" alt=""/>
+      <caption webpage="2015-recon-denim" alt=""/>
+      <caption webpage="dada-silhouette" alt=""/>
+      <caption webpage="zay-b-w" alt=""/>
+      <caption webpage="dada-heart" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="zay---cris" alt=""/>
+      <caption webpage="fashion-design" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="2015-recon-details" alt=""/>
+    </file>
+    <file name="photography button.png" crc="3983333658" seo="true" ref="index:photography:fashion-design:menubio-page:dada-silhouette:zay-b-w:dada-heart:2015-recon-denim:2015-recon-details:zay---cris">
+      <caption webpage="menubio-page" alt=""/>
+      <caption webpage="2015-recon-denim" alt=""/>
+      <caption webpage="dada-silhouette" alt=""/>
+      <caption webpage="zay-b-w" alt=""/>
+      <caption webpage="dada-heart" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="zay---cris" alt=""/>
+      <caption webpage="fashion-design" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="2015-recon-details" alt=""/>
+    </file>
+    <file name="fashion design button.png" crc="4225676970" seo="true" ref="index:photography:fashion-design:menubio-page:dada-silhouette:zay-b-w:dada-heart:2015-recon-denim:2015-recon-details:zay---cris">
+      <caption webpage="menubio-page" alt=""/>
+      <caption webpage="2015-recon-denim" alt=""/>
+      <caption webpage="dada-silhouette" alt=""/>
+      <caption webpage="zay-b-w" alt=""/>
+      <caption webpage="dada-heart" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="zay---cris" alt=""/>
+      <caption webpage="fashion-design" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="2015-recon-details" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:menubio-page"/>
+    <file name="u1067_states.png" crc="90712834" ref="index"/>
+    <file name="u1067_states-r.png" crc="450990120" ref="index"/>
+    <file name="u1067_states-m.png" crc="359311798" ref="index"/>
+    <file name="u1057.png" crc="4238217638" ref="index"/>
+    <file name="u1057-r.png" crc="3931043824" ref="index"/>
+    <file name="camera-light.gif" crc="4014793118" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="photog bg.jpg" crc="96843966" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="dada silhouette no logo.jpg" crc="4293896804" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="geno five mcu.jpg" crc="274619006" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="josh no logo.png" crc="4165052365" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="zay square 2.jpg" crc="351994339" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="cristian retouched.png" crc="3765350047" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="dada heart b-w no logo.png" crc="462010035" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="geno five textured bg 6.jpg" crc="260918885" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="initial logo.png" crc="3936777050" seo="true" ref="photography:fashion-design:menubio-page:dada-silhouette:zay-b-w:dada-heart:2015-recon-denim:2015-recon-details:zay---cris">
+      <caption webpage="menubio-page" alt=""/>
+      <caption webpage="2015-recon-denim" alt=""/>
+      <caption webpage="dada-silhouette" alt=""/>
+      <caption webpage="zay-b-w" alt=""/>
+      <caption webpage="dada-heart" alt=""/>
+      <caption webpage="zay---cris" alt=""/>
+      <caption webpage="fashion-design" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="2015-recon-details" alt=""/>
+    </file>
+    <file name="photography-flash-thing.gif" crc="272394611" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="green light.png" crc="4026850623" seo="true" ref="photography:fashion-design:menubio-page:dada-silhouette:zay-b-w:dada-heart:2015-recon-denim:2015-recon-details:zay---cris">
+      <caption webpage="menubio-page" alt=""/>
+      <caption webpage="2015-recon-denim" alt=""/>
+      <caption webpage="2015-recon-denim" alt=""/>
+      <caption webpage="dada-silhouette" alt=""/>
+      <caption webpage="dada-silhouette" alt=""/>
+      <caption webpage="zay-b-w" alt=""/>
+      <caption webpage="zay-b-w" alt=""/>
+      <caption webpage="dada-heart" alt=""/>
+      <caption webpage="dada-heart" alt=""/>
+      <caption webpage="zay---cris" alt=""/>
+      <caption webpage="zay---cris" alt=""/>
+      <caption webpage="fashion-design" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="2015-recon-details" alt=""/>
+    </file>
+    <file name="design bg.jpg" crc="4110109311" seo="true" ref="fashion-design">
+      <caption webpage="fashion-design" alt=""/>
+    </file>
+    <file name="denim details no logo.png" crc="528460159" seo="true" ref="fashion-design">
+      <caption webpage="fashion-design" alt=""/>
+    </file>
+    <file name="annotated black denim details.png" crc="4292266859" seo="true" ref="fashion-design">
+      <caption webpage="fashion-design" alt=""/>
+    </file>
+    <file name="annotated blue denim details.png" crc="4089166449" seo="true" ref="fashion-design">
+      <caption webpage="fashion-design" alt=""/>
+    </file>
+    <file name="annotated zay - cris.png" crc="72489462" seo="true" ref="fashion-design">
+      <caption webpage="fashion-design" alt=""/>
+    </file>
+    <file name="jacket details.jpg" crc="43751815" seo="true" ref="fashion-design">
+      <caption webpage="fashion-design" alt=""/>
+    </file>
+    <file name="annotated rim hang no logo.jpg" crc="440171985" seo="true" ref="fashion-design">
+      <caption webpage="fashion-design" alt=""/>
+    </file>
+    <file name="fashion-design-displat-thing.gif" crc="3964572171" seo="true" ref="fashion-design:2015-recon-denim:2015-recon-details:zay---cris">
+      <caption webpage="zay---cris" alt=""/>
+      <caption webpage="fashion-design" alt=""/>
+      <caption webpage="2015-recon-denim" alt=""/>
+      <caption webpage="2015-recon-details" alt=""/>
+    </file>
+    <file name="denim back iso.jpg" crc="67813100" seo="true" ref="menubio-page">
+      <caption webpage="menubio-page" alt=""/>
+    </file>
+    <file name="u2371.png" crc="4523133" ref="menubio-page"/>
+    <file name="u2371-r.png" crc="476813509" ref="menubio-page"/>
+    <file name="display-flash-thing.gif" crc="4125977062" seo="true" ref="menubio-page">
+      <caption webpage="menubio-page" alt=""/>
+    </file>
+    <file name="u2395.png" crc="3862185401" ref="menubio-page"/>
+    <file name="u2395-r.png" crc="4099635833" ref="menubio-page"/>
+    <file name="u2387.png" crc="535230213" ref="menubio-page"/>
+    <file name="u2387-r.png" crc="4215142509" ref="menubio-page"/>
+    <file name="silhouette iso.jpg" crc="4252806169" seo="true" ref="dada-silhouette">
+      <caption webpage="dada-silhouette" alt=""/>
+    </file>
+    <file name="veil.gif" crc="4033437140" seo="true" ref="dada-silhouette">
+      <caption webpage="dada-silhouette" alt=""/>
+    </file>
+    <file name="zay square iso.jpg" crc="15853588" seo="true" ref="zay-b-w">
+      <caption webpage="zay-b-w" alt=""/>
+    </file>
+    <file name="zay.gif" crc="3892923269" seo="true" ref="zay-b-w">
+      <caption webpage="zay-b-w" alt=""/>
+    </file>
+    <file name="dada heart iso.jpg" crc="316275858" seo="true" ref="dada-heart">
+      <caption webpage="dada-heart" alt=""/>
+    </file>
+    <file name="ace-of-hearts.gif" crc="4204381530" seo="true" ref="dada-heart">
+      <caption webpage="dada-heart" alt=""/>
+    </file>
+    <file name="rim hang iso.jpg" crc="4170193065" seo="true" ref="2015-recon-denim">
+      <caption webpage="2015-recon-denim" alt=""/>
+    </file>
+    <file name="denim details iso.jpg" crc="497241477" seo="true" ref="2015-recon-details">
+      <caption webpage="2015-recon-details" alt=""/>
+    </file>
+    <file name="zay - cris iso.jpg" crc="4078004271" seo="true" ref="zay---cris">
+      <caption webpage="zay---cris" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3787768485" seo="true" mt="1544442207292" redirect="true"/>
+  <file name="photography.html" crc="340701214" seo="true" mt="1544443783151" redirect="true"/>
+  <file name="fashion-design.html" crc="218905795" seo="true" mt="1544443818952" redirect="true"/>
+  <file name="menubio-page.html" crc="4280802241" seo="true" mt="1544443527656" redirect="true"/>
+  <file name="dada-silhouette.html" crc="3805502081" seo="true" mt="1544441973033" redirect="true"/>
+  <file name="zay-b-w.html" crc="3891692580" seo="true" mt="1544441973033" redirect="true"/>
+  <file name="dada-heart.html" crc="4069014170" seo="true" mt="1544441973033" redirect="true"/>
+  <file name="2015-recon-denim.html" crc="4093760681" seo="true" mt="1544442057466" redirect="true"/>
+  <file name="2015-recon-details.html" crc="3790587450" seo="true" mt="1544442092401" redirect="true"/>
+  <file name="zay---cris.html" crc="4048676088" seo="true" mt="1544442147459" redirect="true"/>
+</manifest>
